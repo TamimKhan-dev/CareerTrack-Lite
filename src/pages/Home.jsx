@@ -1,9 +1,10 @@
+import Hero from "@/components/shared/Hero";
 
 const Home = () => {
     return (
-        <div>
-            This is Home page
-        </div>
+        <>
+          <Hero />
+        </>
     );
 };
 
