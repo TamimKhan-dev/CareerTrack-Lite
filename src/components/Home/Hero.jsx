@@ -2,7 +2,7 @@ import heroImg from './../../assets/Man-working.webp'
 
 export default function Hero() {
   return (
-    <section className="mx-auto my-10 overflow-hidden rounded-3xl bg-linear-to-br from-stone-100 to-stone-200 px-6 pt-6 font-sans sm:px-10">
+    <section className="mx-auto w-7/12 my-10 overflow-hidden rounded-3xl bg-linear-to-br from-stone-100 to-stone-200 px-6 pt-6 font-sans sm:px-10">
 
       {/* Content */}
       <div className="flex flex-col-reverse items-center gap-5 md:flex-row">
